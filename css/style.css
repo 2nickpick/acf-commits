@@ -1,0 +1,15 @@
+#acf-commits_commit_message_container {
+    border-top: 1px solid #eee;
+}
+
+#acf-commits_commit_message {
+    width: 100%;
+}
+
+.acf-commits_download_export {
+    display: none;
+}
+
+.acf-commits_download_export_content {
+    width: 100%;
+}
